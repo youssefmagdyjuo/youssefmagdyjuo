@@ -2,13 +2,15 @@
 
 
 ## 🚀 About Me  
-I’m a passionate **Frontend Developer** who loves building clean, interactive, and responsive web applications.  
-I enjoy solving UI/UX challenges, exploring new technologies, and bringing ideas to life through code.  
+
+I’m a passionate **MERN Stack Developer** with a strong business background, who loves building **clean, interactive, and user-friendly web applications**.  
+I enjoy solving UI/UX challenges, exploring new technologies, and turning ideas into functional, engaging digital experiences.  
 
 - 🌱 Currently learning: **React Hooks, Tailwind CSS, Git & GitHub**  
 - 🔭 Working on: **Expanding my portfolio & improving responsive UI design**  
-- 🌍 Languages: **JavaScript, HTML, CSS, Python, C, English, Arabic**  
-- ⚡ Fun fact: I love mixing design with functionality to create engaging experiences.  
+- 🛠 Tech Stack: **HTML, CSS, JavaScript, React, Redux Toolkit, Node.js, Express.js, MongoDB, Tailwind CSS, Vite, Zustand, Python, C**  
+- 🌍 Languages: **English & Arabic**  
+- ⚡ Fun fact: I love combining design with functionality to create engaging user experiences.  
 
 ---
 
@@ -55,12 +57,44 @@ A full-featured Islamic website with:
 ---
 
 ## 📜 Certificates & Skills  
-- Responsive Web Design   
-- React Frontend Development  
-- Problem Solving (C / Python)  
-- Version Control (Git & GitHub)  
+
+### 💻 Skills
+- **Responsive Web Design**  
+- **React Frontend Development**  
+- **Redux Toolkit & State Management (Zustand)**  
+- **Node.js & Express.js**  
+- **MongoDB & Database Design**  
+- **Problem Solving (C / Python)**  
+- **Version Control (Git & GitHub)**  
+
+### 🏆 Certificates
+
+### 🏅 ALX Front-End Web Development  
+**Issued:** Nov 2025 | **Issuer:** ALX Africa  
+**Skills:** Project Management · Teamwork · Tailwind CSS · Time Management  
+**Description:** 4-month ALX Software Engineering Programme specializing in Front-End Web Development. Covered core web technologies including HTML, CSS, JavaScript, React, and modern development practices to build responsive and user-centered web applications.
 
 ---
+
+### 🏅 Database Fundamentals  
+**Issued:** Aug 2025 | **Issuer:** MCIT, Egypt  
+**Credential ID:** v8jN0xUOI3  
+**Description:** Database Fundamentals course through Mahara-Tech, provided by the Information Technology Institute (MCIT Egypt). Covered core concepts of databases, including relational models, SQL basics, and database design principles.
+
+---
+
+### 🏅 ALX Professional Foundations  
+**Issued:** Jun 2025 | **Issuer:** ALX Africa  
+**Description:** Professional Development Skills for the Digital Age program offered by ALX. Focused on essential soft and professional skills, including communication, problem-solving, teamwork, adaptability, and leadership — all tailored for the modern digital workplace.
+
+---
+
+### 🏅 C Programming  
+**Issued:** Aug 2025 | **Issuer:** MCIT, Egypt | **Expired:** Sep 2025  
+**Credential ID:** kE8zAX7NWf  
+**Skills:** C Programming Language  
+**Description:** Successfully completed a C programming course covering both fundamentals and advanced topics, including control flow, functions, arrays, pointers, and memory management.
+
 
 ## 📫 Contact Me  
 - 🌐 [Portfolio Website](https://youssefmagdyportfolio.netlify.app)  
